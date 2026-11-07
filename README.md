@@ -1,10 +1,10 @@
-## Hi, I'm Luís 👋
+## Hi, I'm Luís
 
 Full-stack developer in Portugal. I build web apps with **Next.js, React and TypeScript**, backed by PostgreSQL and REST APIs.
 
-- 💼 Software Developer: production websites and large CMS migrations for public-sector clients
-- 🔧 Comfortable on the backend too: data modelling, authentication, and migration tooling in Python and SQL
-- 📫 [laprsousa@gmail.com](mailto:laprsousa@gmail.com)
+- Software Developer: production websites and large CMS migrations for public-sector clients
+- Comfortable on the backend too: data modelling, authentication, and migration tooling in Python and SQL
+- Email: [laprsousa@gmail.com](mailto:laprsousa@gmail.com)
 
 ### Featured projects
 
